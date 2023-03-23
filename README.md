@@ -1,4 +1,4 @@
-# Adalab-DA-promoD-Mod2-sprint1-Cristina
+# Adalab-DA-promoD-Mod1-sprint2-Cristina
 Repositorio para los ejercicios de la evaluación2
 Este repositorio contiene los ejercicios realizadas para la evaluación 2 del primer módulo de DA. 
 La carpeta SQL contiene un archivo con los ejercicios relativos a los contenidos del segundo sprint, principalmente, consultas en múltiples tablas y CTEs.
